@@ -68,6 +68,15 @@ gems-mcp --transport sse --port 8765        # SSE 模式
 | `mortar_dissolution` | 13 | 81 | 砂浆骨料溶解 |
 | `ferrite_carbonation` | 8 | ~30 | C4AF 铁铝酸盐强制碳化（从 PC_leaching 精简） |
 
+## 验证
+
+本项目已通过以下文献的热力学模拟结果验证：
+
+1. Ma Z, Jiang Y, Ding T, et al. Elucidating the behaviours and mechanisms of enforced carbonation in ferrite. *Cement and Concrete Research*, 2025, 195: 107916. [DOI: 10.1016/j.cemconres.2025.107916](https://doi.org/10.1016/j.cemconres.2025.107916)
+2. Kim N, Seo J, Jang J G, et al. Thermodynamic modeling of carbonated Portland cement under groundwater and seawater conditions. *Cement and Concrete Composites*, 2025, 162: 106141. [DOI: 10.1016/j.cemconcomp.2025.106141](https://doi.org/10.1016/j.cemconcomp.2025.106141)
+3. Gao W, Zhao M, Li C, et al. Synergistic mechanisms of multiple components in lithium slag-based low-carbon cement: Multi-scale insights from thermodynamic modeling to hydration-driven microstructural evolution. *Cement and Concrete Composites*, 2026, 162: 106508. [DOI: 10.1016/j.cemconcomp.2026.106508](https://doi.org/10.1016/j.cemconcomp.2026.106508)
+4. Pang L, Sun J, Provis J L, et al. Thermodynamic simulation-assisted design of the electrolytic manganese residue-slag-Ca(OH)₂ cementitious system. *Cement and Concrete Research*, 2025. [DOI: 10.1016/j.cemconres.2025.108119](https://doi.org/10.1016/j.cemconres.2025.108119)
+
 ## 文档
 
 - [技术文档](docs/TECHNICAL_DOC.md) — 架构、API、使用方式的完整参考
