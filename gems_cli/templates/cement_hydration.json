@@ -1,0 +1,10 @@
+{
+    "system": "cement_hydration",
+    "conditions": {
+        "T_celsius": 25,
+        "P_bar": 1.0
+    },
+    "bulk_composition": {},
+    "suppress_species": [],
+    "_comment": "Cement hydration simulation. Uses default bulk composition from the CemHyds system. Adjust bulk_composition to model specific cement formulations."
+}

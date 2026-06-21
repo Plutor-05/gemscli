@@ -1,0 +1,18 @@
+{
+    "system": "calcite",
+    "conditions": {
+        "T_celsius": 25,
+        "P_bar": 1.0
+    },
+    "bulk_composition": {
+        "C": 0.01,
+        "Ca": 0.01,
+        "Cl": 0.002,
+        "H": 111.0,
+        "Na": 0.002,
+        "O": 55.5,
+        "Zz": 0.0
+    },
+    "suppress_species": [],
+    "_comment": "Aragonite/Calcite equilibrium system. Simulates CaCO3 precipitation/dissolution at 25C."
+}

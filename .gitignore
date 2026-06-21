@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+env/
+gems.egg-info/
+.pytest_cache/
+GEMS3.11.2/
+examples/
+
+# 生成产物
+*.png
+*.log
+ipmlog*.txt
+.coverage
+
+# 本地配置
+.claude/
+CLAUDE.md
+CHANGELOG.md
+docs/
