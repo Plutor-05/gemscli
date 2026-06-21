@@ -77,14 +77,6 @@ gems-mcp --transport sse --port 8765        # SSE 模式
 3. Gao W, Zhao M, Li C, et al. Synergistic mechanisms of multiple components in lithium slag-based low-carbon cement: Multi-scale insights from thermodynamic modeling to hydration-driven microstructural evolution. *Cement and Concrete Composites*, 2026, 162: 106508. [DOI: 10.1016/j.cemconcomp.2026.106508](https://doi.org/10.1016/j.cemconcomp.2026.106508)
 4. Pang L, Sun J, Provis J L, et al. Thermodynamic simulation-assisted design of the electrolytic manganese residue-slag-Ca(OH)₂ cementitious system. *Cement and Concrete Research*, 2025. [DOI: 10.1016/j.cemconres.2025.108119](https://doi.org/10.1016/j.cemconres.2025.108119)
 
-## 文档
-
-- [技术文档](docs/TECHNICAL_DOC.md) — 架构、API、使用方式的完整参考
-- [故障排查](docs/troubleshooting.md) — 常见问题与解决方案
-- [输出格式规范](docs/output-schema.md) — CLI/MCP 输出 JSON 结构
-- [输入模板格式](docs/template-format.md) — JSON 输入模板说明
-- [API 覆盖率计划](docs/gemscli-api-coverage-plan.md) — 功能差距分析与改进路线图
-- [可行性分析](docs/01-feasibility-analysis.md) — 开发前技术评估（历史文档）
 
 ## 相关资源
 
